@@ -1,0 +1,5 @@
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define SENSOR_PIN 23
+#define PAIRING_PASSWORD "500-68-532"
+#define PAIRING_SETUPID "4Q1J"
